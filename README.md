@@ -8,8 +8,8 @@
 4. Data Visualization: Using Power and integrate data warehouse cred to PowerBi for Visualization
    
 # Tools Used
-<li>Pyhton</li>li>
+<li>Pyhton</li>
 <li>Azure Databricks</li>
-<li>Azure Datafactory</li>li>
+<li>Azure Datafactory</li>
 <li>Synapse</li>
 <li>Power Bi</li>
